@@ -1,0 +1,60 @@
+body{
+    background-color: darkseagreen;
+    color: black;
+    text-align: justify;
+    font-family: cursive;
+    font-size: large;
+}
+
+.Artistas{
+    background-color: green;
+    color: black;
+    text-align: center;
+    font-family: Calibri;
+    font-size: x-large;
+    border-style:solid ;
+}
+
+.imagemJoseph{
+    height: 300px;
+    justify-content: space-around;
+}
+.BiografiaJoseph{
+    color: black;
+    text-align: justify;
+    font-family: cursive;
+    font-size: large;
+}
+
+.BiografiaLygia{
+    color: black;
+    text-align: justify;
+    font-family: cursive;
+    font-size: large;
+}
+
+.BiografiaHélio{
+    color: black;
+    text-align: justify;
+    font-family: cursive;
+    font-size: large;
+}
+
+.BiografiaAnna{
+    color: black;
+    text-align: justify;
+    font-family: cursive;
+    font-size: large;
+}
+.btnartistas{
+    background-color: #A8D3B0;
+    color: white;
+    border-radius: 50px;
+    padding: 5px 10px;
+    text-decoration: none;
+
+}
+.rodapeAutor{
+    width: 100%;
+    height: 300px;
+}

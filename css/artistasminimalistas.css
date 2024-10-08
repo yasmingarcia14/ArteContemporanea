@@ -1,0 +1,146 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: burlywood;
+    font-family: "Bahnschrift";
+}
+
+.header{
+    display: flex;
+}
+.banner{
+    width: 100%;
+    height: 378px;
+}
+.tituloobras{
+    color: black;
+    text-align: center;
+    font-size: large;
+    font-weight: bold;
+    line-height: 50pt;
+    text-indent: 50px;
+    border-style: solid;
+    border-color: rgba(126, 76, 54, 0.66);
+    border-width: 10px;
+}
+.imgs{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.img1{
+    width: 400px;
+    height: 245px;
+    border-style: solid;
+    border-color: rgba(126, 76, 54, 0.66);
+    border-width: 10px;
+}
+.img1, p{
+    color: black;
+    text-align: center;
+    font-size: large;
+    font-weight: bold;
+    line-height: 30pt;
+    text-indent: 50px;
+}
+.img2{
+    width: 405px;
+    height: 300px;
+    border-style: solid;
+    border-color: rgba(126, 76, 54, 0.66);
+    border-width: 10px;
+}
+.img2, p{
+    color: black;
+    text-align: center;
+    font-size: large;
+    font-weight: bold;
+    line-height: 30pt;
+    text-indent: 50px;
+}
+.img3{
+    width: 400px;
+    height: 300px;
+    border-style: solid;
+    border-color: rgba(126, 76, 54, 0.66);
+    border-width: 10px;
+}
+.img3, p{
+    color: black;
+    text-align: center;
+    font-size: large;
+    font-weight: bold;
+    line-height: 30pt;
+    text-indent: 50px;
+}
+.img4{
+    width: 650px;
+    height: 240px;
+    border-style: solid;
+    border-color: rgba(126, 76, 54, 0.66);
+    border-width: 10px;
+}
+.img4, p{
+    color: black;
+    text-align: center;
+    font-size: large;
+    font-weight: bold;
+    line-height: 30pt;
+    text-indent: 50px;
+}
+.img5{
+    width: 1000px;
+    height: 245px;
+    border-style: solid;
+    border-color: rgba(126, 76, 54, 0.66);
+    border-width: 10px;
+}
+.img5, p{
+    color: black;
+    text-align: center;
+    font-size: large;
+    font-weight: bold;
+    line-height: 30pt;
+    text-indent: 50px;
+}
+.img6{
+    width: 405px;
+    height: 300px;
+    border-style: solid;
+    border-color: rgba(126, 76, 54, 0.66);
+    border-width: 10px;
+}
+.img6, p{
+    color: black;
+    text-align: center;
+    font-size: large;
+    font-weight: bold;
+    line-height: 30pt;
+    text-indent: 50px;
+}
+
+.teste{
+    color: black;
+    text-align: center;
+    font-size: large;
+    font-weight: bold;
+    line-height: 50pt;
+    text-indent: 50px;
+}
+.rodape{
+    background-color: rgba(126, 76, 54, 0.66);
+    color: black;
+    text-align: center;
+    font-family: "Bahnschrift";
+    font-size: large;
+    font-weight: bold;
+    line-height: 80pt;
+    text-indent: 50px;
+}
+.btnartistas {
+    background-color: black;
+    color: white;
+    border-radius: 50px;
+    padding: 5px 10px;
+    text-decoration: none;
+}

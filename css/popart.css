@@ -1,0 +1,170 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: Bahnschrift;
+    background-color: #f6ccff;
+    text-align: center;
+}
+.Introducao{
+    color: #9d039d;
+    align-items: center;
+    display: flex;
+    border-color: #9d039d;
+    border-style: solid;
+    border-width: 10px;
+    border-radius: 20px;
+    justify-content: space-around;
+    padding: 5px;
+    font-weight: bold;
+    font-family: Bahnschrift;
+    font-size: 20px;
+}
+
+.Descricao{
+    align-items: center;
+    padding: 10px;
+    font-family: Bahnschrift;
+    font-size: 18px;
+}
+
+.Caracteristicas{
+    color: #E7287A;
+    align-items: center;
+    display: flex;
+    border-color: #ff62b1;
+    border-style: solid;
+    border-width: 10px;
+    border-radius: 20px;
+    justify-content: space-around;
+    padding: 5px;
+    font-weight: bold;
+    font-family: Bahnschrift;
+    font-size: 20px;
+}
+
+.Itenscaracteristicas{
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+    font-weight: bold;
+    font-family: Bahnschrift;
+    font-size: 18px;
+    color: #757575;
+}
+
+.características{
+    padding: 10px;
+    font-family: Bahnschrift;
+    font-size: 20px;
+    text-align: center;
+    list-style: none;
+}
+
+.Fatos{
+    color: #22b5e9;
+    align-items: center;
+    display: flex;
+    border-color:  #22b5e9;
+    border-style: solid;
+    border-width: 10px;
+    border-radius: 20px;
+    justify-content: space-around;
+    padding: 5px;
+    font-weight: bold;
+    font-family: Bahnschrift;
+    font-size: 20px;
+}
+
+.Historia{
+    padding: 10px;
+    align-items: center;
+    font-family: Bahnschrift;
+    font-size: 19px;
+}
+
+.obras{
+    color: #3b3b3b;
+    align-items: center;
+    display: flex;
+    border-color: #3b3b3b;
+    border-style: solid;
+    border-width: 10px;
+    border-radius: 20px;
+    justify-content: space-around;
+    padding: 5px;
+    font-weight: bold;
+    font-family: Bahnschrift;
+    font-size: 20px;
+}
+
+.Nome{
+    color: #88A4DA;
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+    padding: 2px;
+    font-weight: bold;
+    font-family: Bahnschrift;
+    font-size: 20px;
+}
+
+.imgs{
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+}
+
+.img1{
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+    border-color: #88A4DA;
+    border-style: solid;
+    border-width: 10px;
+    border-radius: 20px;
+}
+
+.descricao{
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+    font-family: Bahnschrift;
+    font-size: 20px;
+}
+.btnArtistas{
+    background-color: #9d039d;
+    color: white;
+    border-radius: 50px;
+    padding: 5px 10px;
+    text-decoration: none;
+    text-align: center;
+    justify-content: space-around;
+    align-items: center;
+    display: flex;
+}
+
+.rodape{
+    background-color: #9d039d;
+    color: #E1E5E7;
+    text-align: center;
+    font-family: Bahnschrift;
+    font-size: large;
+    font-weight: bold;
+    line-height: 80pt;
+    text-indent: 50px;
+}
+.btnartistas {
+    background-color: #9d039d;
+    color: white;
+    border-radius: 50px;
+    padding: 5px 10px;
+    text-decoration: none;
+}
+.imagem{
+    display: flex;
+}
+.banner{
+    width: 100%;
+    height: 504px
+}
