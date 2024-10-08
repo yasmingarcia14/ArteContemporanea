@@ -9,7 +9,7 @@ body{
     display: flex;
 }
 .banner{
-    width: 1500px;
+    width: 100%;
     height: 504px
 }
 .tituloobras{
